@@ -16,6 +16,10 @@
 
     }
 
+    .container {
+        max-width: 800px;
+    }
+
     .botmargin {
         margin-bottom: 100px;
     }
